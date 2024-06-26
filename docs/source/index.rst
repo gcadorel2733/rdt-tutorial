@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Ce projet est en cours de développement.
 
 Contents
 --------
