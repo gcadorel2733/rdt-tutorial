@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Binvenue sur la documentation de Home Assistant!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
