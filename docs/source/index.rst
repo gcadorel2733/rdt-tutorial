@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+Lumache hébèrge sa documentation sur Read the Docs.
